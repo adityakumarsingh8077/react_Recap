@@ -1,0 +1,21 @@
+.outer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 400px;
+    margin:0 auto;
+    margin-top: 80px;
+    /* margin-left: 160px; */
+
+}
+.container1, .container2 {
+    max-width: 200px;
+    align-items: center;
+    justify-content: center;
+    /* display: flex; */
+
+}
+
+button img {
+     width: 30px;
+}
